@@ -1,0 +1,6 @@
+torch-2.8.0
+torch.nn
+numpy 
+pandas
+matplotlib.pylab 
+time
